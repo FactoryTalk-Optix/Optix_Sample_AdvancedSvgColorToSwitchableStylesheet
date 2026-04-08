@@ -1,0 +1,27 @@
+<svg
+	width="100"
+	height="100"
+	viewBox="0 0 100 100"
+	xmlns="http://www.w3.org/2000/svg">
+	<g 	
+		id="O_element"
+		style="stroke-width:0">
+		<circle
+			id="O_element_ext"
+			cx="48"
+			cy="48"
+			r="48"
+			style="fill:#16A2DD;"/>
+		<circle
+			id="O_element_int"
+			cx="48"
+			cy="48" 
+			r="20"
+			style="fill:#FFFFFF;"/>
+	</g>
+	<polyline
+		id="X_element"
+		points="0,30 0,60 30,60 30,90 60,90 60,60 90,60 90,30 60,30 60,0 30,0 30,30 0,30"
+		style="fill:#16A2DD;stroke:#FFFFFF;stroke-width:1"
+		transform="translate(70,26) rotate(45) scale(0.7)"/>
+</svg>
